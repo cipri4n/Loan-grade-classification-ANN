@@ -8,5 +8,7 @@ sk-learn
 -----
 
 1.Preprocessing data
+
 2.Model creation
-3.Model validation
+
+3.Model validation + Ploting
