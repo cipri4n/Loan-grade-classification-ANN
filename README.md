@@ -1,11 +1,11 @@
 # Loan-grade-classification-ANN
-Loan Grade Prediction - LendingClub dataset
------
-NUMPY
-PANDAS
+
+-----------
+numPy
+pandas
 TensorFlow
 sk-learn
------
+-------------
 
 1.Preprocessing data
 
