@@ -12,3 +12,9 @@ sk-learn
 2.Model creation
 
 3.Model validation + Ploting
+
+-------------
+
+dataset : https://www.kaggle.com/wordsforthewise/lending-club
+
+-------------
